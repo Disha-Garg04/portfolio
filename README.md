@@ -1,1 +1,3 @@
-# fully responsive portfolio website using html and css
+# portfolio 
+fully responsive
+using html and css
